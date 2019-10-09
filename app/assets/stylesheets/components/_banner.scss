@@ -1,0 +1,14 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  height: 450px;
+  color: white;
+}
+
+
+.flex-container {
+  display: flex;
+  justify-content: flex-end; // or `flex-start`
+  padding-right: 220px;
+}
